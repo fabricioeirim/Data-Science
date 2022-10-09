@@ -1,2 +1,2 @@
 # Dio-Desafios-Data-Science
-Entrega de projetos
+Entrega de projetos de Data Science
